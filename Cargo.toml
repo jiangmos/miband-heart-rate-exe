@@ -1,0 +1,22 @@
+[package]
+name = "miband-heart-rate"
+authors = ["Tnze"]
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/Tnze/miband-heart-rate"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+warp = "0.3.7"
+tokio = { version = "1.45.1", features = ["macros", "rt-multi-thread", "time"] }
+bluest = "0.6.8"
+futures-lite = "2.6.0"
+serde = { version = "1.0.219", features = ["derive"] }
+chrono = "0.4"
+
+[profile.release]
+strip = true
+opt-level = "z"
+lto = true
+codegen-units = 1

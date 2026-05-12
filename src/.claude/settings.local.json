@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rustc --version)",
+      "Bash(rustup toolchain:*)",
+      "Bash(rustup default:*)",
+      "Bash(cargo run:*)"
+    ]
+  }
+}

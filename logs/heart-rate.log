@@ -1,0 +1,352 @@
+[2026-04-04T12:05:16.676112Z] === miband-heart-rate started ===
+[2026-04-04T12:05:16.676334Z] Initializing BLE adapter
+[2026-04-04T12:05:16.680486Z] Start listening at http://127.0.0.1:3030
+[2026-04-04T12:05:16.682023Z] BLE adapter ready
+[2026-04-04T12:05:16.696448Z] Found 0 already-connected devices
+[2026-04-04T12:05:16.696585Z] Starting scan
+[2026-04-04T12:05:16.701357Z] Scan started
+[2026-04-04T12:05:17.188463Z] Found Device: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc Ok("Xiaomi Smart Band 9 0623")
+[2026-04-04T12:05:17.188737Z] Connecting device: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc
+[2026-04-04T12:05:17.188869Z] Connect done: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc
+[2026-04-04T12:05:18.731279Z] Subscribing to HRM notifications
+[2026-04-04T12:05:19.269946Z] Notification stream established
+[2026-04-04T12:05:19.990332Z] HeartRateValue: 72, SensorContactDetected: Some(true), count: 1
+[2026-04-04T12:05:20.829377Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 2
+[2026-04-04T12:05:21.969352Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 3
+[2026-04-04T12:05:23.949325Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 4
+[2026-04-04T12:05:25.929300Z] HeartRateValue: 74, SensorContactDetected: Some(true), count: 5
+[2026-04-04T12:05:28.031358Z] HeartRateValue: 75, SensorContactDetected: Some(true), count: 6
+[2026-04-04T12:05:28.929270Z] HeartRateValue: 76, SensorContactDetected: Some(true), count: 7
+[2026-04-04T12:05:30.309237Z] HeartRateValue: 77, SensorContactDetected: Some(true), count: 8
+[2026-04-04T12:05:30.849247Z] HeartRateValue: 79, SensorContactDetected: Some(true), count: 9
+[2026-04-04T12:05:36.430092Z] HeartRateValue: 80, SensorContactDetected: Some(true), count: 10
+[2026-04-04T12:05:36.609254Z] HeartRateValue: 83, SensorContactDetected: Some(true), count: 11
+[2026-04-04T12:06:06.617134Z] No notification for 30s, assuming device disconnected (total samples: 11)
+[2026-04-04T12:06:06.618160Z] Connection error: "No longer heart rate notify"
+[2026-04-04T12:06:06.623338Z] Found 0 already-connected devices
+[2026-04-04T12:06:06.623434Z] Starting scan
+[2026-04-04T12:06:06.628656Z] Scan started
+[2026-04-04T12:06:07.191020Z] Found Device: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc Ok("Xiaomi Smart Band 9 0623")
+[2026-04-04T12:06:07.191325Z] Connecting device: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc
+[2026-04-04T12:06:07.191855Z] Connect done: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc
+[2026-04-04T12:06:08.950607Z] Subscribing to HRM notifications
+[2026-04-04T12:06:09.549554Z] Notification stream established
+[2026-04-04T12:06:09.849316Z] HeartRateValue: 83, SensorContactDetected: Some(true), count: 1
+[2026-04-04T12:06:10.689262Z] HeartRateValue: 82, SensorContactDetected: Some(true), count: 2
+[2026-04-04T12:06:11.829233Z] HeartRateValue: 82, SensorContactDetected: Some(true), count: 3
+[2026-04-04T12:06:13.809190Z] HeartRateValue: 81, SensorContactDetected: Some(true), count: 4
+[2026-04-04T12:06:14.649191Z] HeartRateValue: 80, SensorContactDetected: Some(true), count: 5
+[2026-04-04T12:06:15.789176Z] HeartRateValue: 79, SensorContactDetected: Some(true), count: 6
+[2026-04-04T12:06:16.689201Z] HeartRateValue: 78, SensorContactDetected: Some(true), count: 7
+[2026-04-04T12:06:17.829217Z] HeartRateValue: 78, SensorContactDetected: Some(true), count: 8
+[2026-04-04T12:06:18.609138Z] HeartRateValue: 77, SensorContactDetected: Some(true), count: 9
+[2026-04-04T12:06:19.809178Z] HeartRateValue: 77, SensorContactDetected: Some(true), count: 10
+[2026-04-04T12:06:20.589189Z] HeartRateValue: 76, SensorContactDetected: Some(true), count: 11
+[2026-04-04T12:06:21.729650Z] HeartRateValue: 76, SensorContactDetected: Some(true), count: 12
+[2026-04-04T12:06:22.569505Z] HeartRateValue: 75, SensorContactDetected: Some(true), count: 13
+[2026-04-04T12:06:23.770147Z] HeartRateValue: 75, SensorContactDetected: Some(true), count: 14
+[2026-04-04T12:06:25.870491Z] HeartRateValue: 75, SensorContactDetected: Some(true), count: 15
+[2026-04-04T12:06:26.589120Z] HeartRateValue: 74, SensorContactDetected: Some(true), count: 16
+[2026-04-04T12:06:27.789170Z] HeartRateValue: 75, SensorContactDetected: Some(true), count: 17
+[2026-04-04T12:06:29.769139Z] HeartRateValue: 76, SensorContactDetected: Some(true), count: 18
+[2026-04-04T12:06:31.749103Z] HeartRateValue: 77, SensorContactDetected: Some(true), count: 19
+[2026-04-04T12:06:32.589069Z] HeartRateValue: 78, SensorContactDetected: Some(true), count: 20
+[2026-04-04T12:06:33.729034Z] HeartRateValue: 81, SensorContactDetected: Some(true), count: 21
+[2026-04-04T12:06:34.569022Z] HeartRateValue: 83, SensorContactDetected: Some(true), count: 22
+[2026-04-04T12:06:35.768959Z] HeartRateValue: 87, SensorContactDetected: Some(true), count: 23
+[2026-04-04T12:06:36.548987Z] HeartRateValue: 88, SensorContactDetected: Some(true), count: 24
+[2026-04-04T12:06:37.748970Z] HeartRateValue: 89, SensorContactDetected: Some(true), count: 25
+[2026-04-04T12:06:38.528996Z] HeartRateValue: 93, SensorContactDetected: Some(true), count: 26
+[2026-04-04T12:06:39.728937Z] HeartRateValue: 94, SensorContactDetected: Some(true), count: 27
+[2026-04-04T12:06:40.569002Z] HeartRateValue: 98, SensorContactDetected: Some(true), count: 28
+[2026-04-04T12:06:41.708905Z] HeartRateValue: 99, SensorContactDetected: Some(true), count: 29
+[2026-04-04T12:06:42.548908Z] HeartRateValue: 98, SensorContactDetected: Some(true), count: 30
+[2026-04-04T12:06:43.749100Z] HeartRateValue: 97, SensorContactDetected: Some(true), count: 31
+[2026-04-04T12:06:45.668917Z] HeartRateValue: 97, SensorContactDetected: Some(true), count: 32
+[2026-04-04T12:06:46.508849Z] HeartRateValue: 96, SensorContactDetected: Some(true), count: 33
+[2026-04-04T12:06:47.648896Z] HeartRateValue: 96, SensorContactDetected: Some(true), count: 34
+[2026-04-04T12:06:48.488883Z] HeartRateValue: 95, SensorContactDetected: Some(true), count: 35
+[2026-04-04T12:06:49.688884Z] HeartRateValue: 93, SensorContactDetected: Some(true), count: 36
+[2026-04-04T12:06:50.528906Z] HeartRateValue: 92, SensorContactDetected: Some(true), count: 37
+[2026-04-04T12:06:51.668811Z] HeartRateValue: 91, SensorContactDetected: Some(true), count: 38
+[2026-04-04T12:06:52.448836Z] HeartRateValue: 90, SensorContactDetected: Some(true), count: 39
+[2026-04-04T12:06:53.648806Z] HeartRateValue: 89, SensorContactDetected: Some(true), count: 40
+[2026-04-04T12:06:54.428902Z] HeartRateValue: 88, SensorContactDetected: Some(true), count: 41
+[2026-04-04T12:06:55.628779Z] HeartRateValue: 87, SensorContactDetected: Some(true), count: 42
+[2026-04-04T12:06:56.468794Z] HeartRateValue: 86, SensorContactDetected: Some(true), count: 43
+[2026-04-04T12:06:57.668745Z] HeartRateValue: 85, SensorContactDetected: Some(true), count: 44
+[2026-04-04T12:06:59.648735Z] HeartRateValue: 84, SensorContactDetected: Some(true), count: 45
+[2026-04-04T12:07:00.428772Z] HeartRateValue: 83, SensorContactDetected: Some(true), count: 46
+[2026-04-04T12:07:01.628693Z] HeartRateValue: 83, SensorContactDetected: Some(true), count: 47
+[2026-04-04T12:07:02.408683Z] HeartRateValue: 82, SensorContactDetected: Some(true), count: 48
+[2026-04-04T12:07:03.608705Z] HeartRateValue: 82, SensorContactDetected: Some(true), count: 49
+[2026-04-04T12:07:04.448667Z] HeartRateValue: 81, SensorContactDetected: Some(true), count: 50
+[2026-04-04T12:07:05.588667Z] HeartRateValue: 81, SensorContactDetected: Some(true), count: 51
+[2026-04-04T12:07:07.690624Z] HeartRateValue: 80, SensorContactDetected: Some(true), count: 52
+[2026-04-04T12:07:08.408611Z] HeartRateValue: 81, SensorContactDetected: Some(true), count: 53
+[2026-04-04T12:07:09.608604Z] HeartRateValue: 81, SensorContactDetected: Some(true), count: 54
+[2026-04-04T12:07:11.588626Z] HeartRateValue: 80, SensorContactDetected: Some(true), count: 55
+[2026-04-04T12:07:13.568570Z] HeartRateValue: 80, SensorContactDetected: Some(true), count: 56
+[2026-04-04T12:07:14.408573Z] HeartRateValue: 81, SensorContactDetected: Some(true), count: 57
+[2026-04-04T12:07:15.608645Z] HeartRateValue: 81, SensorContactDetected: Some(true), count: 58
+[2026-04-04T12:07:16.388623Z] HeartRateValue: 80, SensorContactDetected: Some(true), count: 59
+[2026-04-04T12:07:17.588589Z] HeartRateValue: 81, SensorContactDetected: Some(true), count: 60
+[2026-04-04T12:07:18.368604Z] HeartRateValue: 80, SensorContactDetected: Some(true), count: 61
+[2026-04-04T12:07:19.569013Z] HeartRateValue: 80, SensorContactDetected: Some(true), count: 62
+[2026-04-04T12:07:21.548852Z] HeartRateValue: 79, SensorContactDetected: Some(true), count: 63
+[2026-04-04T12:07:23.528484Z] HeartRateValue: 79, SensorContactDetected: Some(true), count: 64
+[2026-04-04T12:07:25.629301Z] HeartRateValue: 78, SensorContactDetected: Some(true), count: 65
+[2026-04-04T12:07:27.548468Z] HeartRateValue: 78, SensorContactDetected: Some(true), count: 66
+[2026-04-04T12:07:29.528428Z] HeartRateValue: 79, SensorContactDetected: Some(true), count: 67
+[2026-04-04T12:07:30.368537Z] HeartRateValue: 78, SensorContactDetected: Some(true), count: 68
+[2026-04-04T12:07:31.508422Z] HeartRateValue: 78, SensorContactDetected: Some(true), count: 69
+[2026-04-04T12:07:33.610665Z] HeartRateValue: 78, SensorContactDetected: Some(true), count: 70
+[2026-04-04T12:07:35.528345Z] HeartRateValue: 78, SensorContactDetected: Some(true), count: 71
+[2026-04-04T12:07:37.508343Z] HeartRateValue: 78, SensorContactDetected: Some(true), count: 72
+[2026-04-04T12:07:39.488430Z] HeartRateValue: 78, SensorContactDetected: Some(true), count: 73
+[2026-04-04T12:07:41.468328Z] HeartRateValue: 78, SensorContactDetected: Some(true), count: 74
+[2026-04-04T12:07:43.569370Z] HeartRateValue: 78, SensorContactDetected: Some(true), count: 75
+[2026-04-04T12:07:44.288644Z] HeartRateValue: 77, SensorContactDetected: Some(true), count: 76
+[2026-04-04T12:07:45.488265Z] HeartRateValue: 77, SensorContactDetected: Some(true), count: 77
+[2026-04-04T12:07:47.468737Z] HeartRateValue: 76, SensorContactDetected: Some(true), count: 78
+[2026-04-04T12:07:49.448739Z] HeartRateValue: 75, SensorContactDetected: Some(true), count: 79
+[2026-04-04T12:07:51.428530Z] HeartRateValue: 75, SensorContactDetected: Some(true), count: 80
+[2026-04-04T12:07:53.530372Z] HeartRateValue: 74, SensorContactDetected: Some(true), count: 81
+[2026-04-04T12:07:55.448610Z] HeartRateValue: 74, SensorContactDetected: Some(true), count: 82
+[2026-04-04T12:07:57.428658Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 83
+[2026-04-04T12:07:58.208393Z] HeartRateValue: 74, SensorContactDetected: Some(true), count: 84
+[2026-04-04T12:07:59.408098Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 85
+[2026-04-04T12:08:01.510079Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 86
+[2026-04-04T12:08:03.428586Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 87
+[2026-04-04T12:08:04.208486Z] HeartRateValue: 74, SensorContactDetected: Some(true), count: 88
+[2026-04-04T12:08:05.408394Z] HeartRateValue: 74, SensorContactDetected: Some(true), count: 89
+[2026-04-04T12:08:07.388510Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 90
+[2026-04-04T12:08:09.368262Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 91
+[2026-04-04T12:08:11.470127Z] HeartRateValue: 72, SensorContactDetected: Some(true), count: 92
+[2026-04-04T12:08:13.448521Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 93
+[2026-04-04T12:08:14.228174Z] HeartRateValue: 71, SensorContactDetected: Some(true), count: 94
+[2026-04-04T12:08:15.368404Z] HeartRateValue: 71, SensorContactDetected: Some(true), count: 95
+[2026-04-04T12:08:17.348372Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 96
+[2026-04-04T12:08:19.450161Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 97
+[2026-04-04T12:08:21.368244Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 98
+[2026-04-04T12:08:23.347857Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 99
+[2026-04-04T12:08:24.128304Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 100
+[2026-04-04T12:08:25.328330Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 101
+[2026-04-04T12:08:27.308265Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 102
+[2026-04-04T12:08:28.148437Z] HeartRateValue: 66, SensorContactDetected: Some(true), count: 103
+[2026-04-04T12:08:29.348174Z] HeartRateValue: 66, SensorContactDetected: Some(true), count: 104
+[2026-04-04T12:08:31.328543Z] HeartRateValue: 66, SensorContactDetected: Some(true), count: 105
+[2026-04-04T12:08:33.307760Z] HeartRateValue: 65, SensorContactDetected: Some(true), count: 106
+[2026-04-04T12:08:34.087777Z] HeartRateValue: 66, SensorContactDetected: Some(true), count: 107
+[2026-04-04T12:08:35.347788Z] HeartRateValue: 65, SensorContactDetected: Some(true), count: 108
+[2026-04-04T12:08:37.327778Z] HeartRateValue: 65, SensorContactDetected: Some(true), count: 109
+[2026-04-04T12:08:39.307742Z] HeartRateValue: 65, SensorContactDetected: Some(true), count: 110
+[2026-04-04T12:08:41.287701Z] HeartRateValue: 66, SensorContactDetected: Some(true), count: 111
+[2026-04-04T12:08:43.268138Z] HeartRateValue: 66, SensorContactDetected: Some(true), count: 112
+[2026-04-04T12:08:45.248021Z] HeartRateValue: 66, SensorContactDetected: Some(true), count: 113
+[2026-04-04T12:08:47.350100Z] HeartRateValue: 66, SensorContactDetected: Some(true), count: 114
+[2026-04-04T12:08:49.328038Z] HeartRateValue: 66, SensorContactDetected: Some(true), count: 115
+[2026-04-04T12:08:51.248080Z] HeartRateValue: 66, SensorContactDetected: Some(true), count: 116
+[2026-04-04T12:08:53.228068Z] HeartRateValue: 66, SensorContactDetected: Some(true), count: 117
+[2026-04-04T12:08:55.208008Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 118
+[2026-04-04T12:08:57.309209Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 119
+[2026-04-04T12:08:59.227687Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 120
+[2026-04-04T12:09:01.207524Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 121
+[2026-04-04T12:09:03.187964Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 122
+[2026-04-04T12:09:05.288986Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 123
+[2026-04-04T12:09:06.007737Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 124
+[2026-04-04T12:09:07.207522Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 125
+[2026-04-04T12:09:09.187940Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 126
+[2026-04-04T12:09:11.167971Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 127
+[2026-04-04T12:09:13.147782Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 128
+[2026-04-04T12:09:15.248392Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 129
+[2026-04-04T12:09:17.167534Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 130
+[2026-04-04T12:09:19.147326Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 131
+[2026-04-04T12:09:19.927321Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 132
+[2026-04-04T12:09:21.127376Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 133
+[2026-04-04T12:09:23.228115Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 134
+[2026-04-04T12:09:23.947314Z] HeartRateValue: 71, SensorContactDetected: Some(true), count: 135
+[2026-04-04T12:09:25.149155Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 136
+[2026-04-04T12:09:25.927262Z] HeartRateValue: 75, SensorContactDetected: Some(true), count: 137
+[2026-04-04T12:09:27.127262Z] HeartRateValue: 76, SensorContactDetected: Some(true), count: 138
+[2026-04-04T12:09:27.907590Z] HeartRateValue: 77, SensorContactDetected: Some(true), count: 139
+[2026-04-04T12:09:29.107627Z] HeartRateValue: 78, SensorContactDetected: Some(true), count: 140
+[2026-04-04T12:09:29.948117Z] HeartRateValue: 79, SensorContactDetected: Some(true), count: 141
+[2026-04-04T12:09:31.087779Z] HeartRateValue: 80, SensorContactDetected: Some(true), count: 142
+[2026-04-04T12:09:33.189135Z] HeartRateValue: 80, SensorContactDetected: Some(true), count: 143
+[2026-04-04T12:09:33.907353Z] HeartRateValue: 81, SensorContactDetected: Some(true), count: 144
+[2026-04-04T12:09:35.107599Z] HeartRateValue: 81, SensorContactDetected: Some(true), count: 145
+[2026-04-04T12:09:37.087592Z] HeartRateValue: 80, SensorContactDetected: Some(true), count: 146
+[2026-04-04T12:09:39.067598Z] HeartRateValue: 79, SensorContactDetected: Some(true), count: 147
+[2026-04-04T12:09:41.169544Z] HeartRateValue: 78, SensorContactDetected: Some(true), count: 148
+[2026-04-04T12:09:43.087284Z] HeartRateValue: 77, SensorContactDetected: Some(true), count: 149
+[2026-04-04T12:09:43.867063Z] HeartRateValue: 76, SensorContactDetected: Some(true), count: 150
+[2026-04-04T12:09:45.067079Z] HeartRateValue: 76, SensorContactDetected: Some(true), count: 151
+[2026-04-04T12:09:45.847072Z] HeartRateValue: 75, SensorContactDetected: Some(true), count: 152
+[2026-04-04T12:09:47.047451Z] HeartRateValue: 75, SensorContactDetected: Some(true), count: 153
+[2026-04-04T12:09:47.887272Z] HeartRateValue: 74, SensorContactDetected: Some(true), count: 154
+[2026-04-04T12:09:49.027506Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 155
+[2026-04-04T12:09:49.867043Z] HeartRateValue: 72, SensorContactDetected: Some(true), count: 156
+[2026-04-04T12:09:51.067089Z] HeartRateValue: 72, SensorContactDetected: Some(true), count: 157
+[2026-04-04T12:09:53.046975Z] HeartRateValue: 71, SensorContactDetected: Some(true), count: 158
+[2026-04-04T12:09:55.027337Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 159
+[2026-04-04T12:09:57.007367Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 160
+[2026-04-04T12:09:58.987412Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 161
+[2026-04-04T12:10:01.088984Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 162
+[2026-04-04T12:10:01.807233Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 163
+[2026-04-04T12:10:03.067387Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 164
+[2026-04-04T12:10:04.987365Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 165
+[2026-04-04T12:10:06.967339Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 166
+[2026-04-04T12:10:09.068906Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 167
+[2026-04-04T12:10:10.987333Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 168
+[2026-04-04T12:10:12.966932Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 169
+[2026-04-04T12:10:14.946803Z] HeartRateValue: 71, SensorContactDetected: Some(true), count: 170
+[2026-04-04T12:10:15.786746Z] HeartRateValue: 72, SensorContactDetected: Some(true), count: 171
+[2026-04-04T12:10:17.106761Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 172
+[2026-04-04T12:10:17.766797Z] HeartRateValue: 74, SensorContactDetected: Some(true), count: 173
+[2026-04-04T12:10:18.966839Z] HeartRateValue: 74, SensorContactDetected: Some(true), count: 174
+[2026-04-04T12:10:20.946721Z] HeartRateValue: 74, SensorContactDetected: Some(true), count: 175
+[2026-04-04T12:10:23.048495Z] HeartRateValue: 74, SensorContactDetected: Some(true), count: 176
+[2026-04-04T12:10:23.826658Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 177
+[2026-04-04T12:10:24.906649Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 178
+[2026-04-04T12:10:25.866641Z] HeartRateValue: 72, SensorContactDetected: Some(true), count: 179
+[2026-04-04T12:10:27.006618Z] HeartRateValue: 72, SensorContactDetected: Some(true), count: 180
+[2026-04-04T12:10:27.726625Z] HeartRateValue: 71, SensorContactDetected: Some(true), count: 181
+[2026-04-04T12:10:28.927078Z] HeartRateValue: 71, SensorContactDetected: Some(true), count: 182
+[2026-04-04T12:10:29.766597Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 183
+[2026-04-04T12:10:30.906643Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 184
+[2026-04-04T12:10:32.886774Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 185
+[2026-04-04T12:10:34.866587Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 186
+[2026-04-04T12:10:35.706572Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 187
+[2026-04-04T12:10:36.906502Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 188
+[2026-04-04T12:10:38.886543Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 189
+[2026-04-04T12:10:40.866496Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 190
+[2026-04-04T12:10:41.646485Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 191
+[2026-04-04T12:10:42.846514Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 192
+[2026-04-04T12:10:44.948880Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 193
+[2026-04-04T12:10:45.666490Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 194
+[2026-04-04T12:10:46.866465Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 195
+[2026-04-04T12:10:48.846519Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 196
+[2026-04-04T12:10:49.626467Z] HeartRateValue: 66, SensorContactDetected: Some(true), count: 197
+[2026-04-04T12:10:50.826465Z] HeartRateValue: 66, SensorContactDetected: Some(true), count: 198
+[2026-04-04T12:10:52.806357Z] HeartRateValue: 65, SensorContactDetected: Some(true), count: 199
+[2026-04-04T12:10:54.907806Z] HeartRateValue: 64, SensorContactDetected: Some(true), count: 200
+[2026-04-04T12:10:56.826364Z] HeartRateValue: 63, SensorContactDetected: Some(true), count: 201
+[2026-04-04T12:10:58.989278Z] HeartRateValue: 63, SensorContactDetected: Some(true), count: 202
+[2026-04-04T12:10:59.886847Z] HeartRateValue: 62, SensorContactDetected: Some(true), count: 203
+[2026-04-04T12:11:00.786812Z] HeartRateValue: 62, SensorContactDetected: Some(true), count: 204
+[2026-04-04T12:11:01.626740Z] HeartRateValue: 63, SensorContactDetected: Some(true), count: 205
+[2026-04-04T12:11:02.826632Z] HeartRateValue: 63, SensorContactDetected: Some(true), count: 206
+[2026-04-04T12:11:05.047531Z] HeartRateValue: 64, SensorContactDetected: Some(true), count: 207
+[2026-04-04T12:11:08.348305Z] HeartRateValue: 64, SensorContactDetected: Some(true), count: 208
+[2026-04-04T12:11:08.946467Z] HeartRateValue: 64, SensorContactDetected: Some(true), count: 209
+[2026-04-04T12:11:11.587461Z] HeartRateValue: 64, SensorContactDetected: Some(true), count: 210
+[2026-04-04T12:11:13.868118Z] HeartRateValue: 64, SensorContactDetected: Some(true), count: 211
+[2026-04-04T12:11:15.786295Z] HeartRateValue: 64, SensorContactDetected: Some(true), count: 212
+[2026-04-04T12:11:16.866159Z] HeartRateValue: 63, SensorContactDetected: Some(true), count: 213
+[2026-04-04T12:11:19.389341Z] HeartRateValue: 63, SensorContactDetected: Some(true), count: 214
+[2026-04-04T12:11:20.706165Z] HeartRateValue: 63, SensorContactDetected: Some(true), count: 215
+[2026-04-04T12:11:22.807933Z] HeartRateValue: 63, SensorContactDetected: Some(true), count: 216
+[2026-04-04T12:11:23.526099Z] HeartRateValue: 64, SensorContactDetected: Some(true), count: 217
+[2026-04-04T12:11:24.726496Z] HeartRateValue: 64, SensorContactDetected: Some(true), count: 218
+[2026-04-04T12:11:26.706479Z] HeartRateValue: 64, SensorContactDetected: Some(true), count: 219
+[2026-04-04T12:11:28.686471Z] HeartRateValue: 65, SensorContactDetected: Some(true), count: 220
+[2026-04-04T12:11:30.787899Z] HeartRateValue: 65, SensorContactDetected: Some(true), count: 221
+[2026-04-04T12:11:32.706448Z] HeartRateValue: 66, SensorContactDetected: Some(true), count: 222
+[2026-04-04T12:11:34.686180Z] HeartRateValue: 66, SensorContactDetected: Some(true), count: 223
+[2026-04-04T12:11:35.465980Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 224
+[2026-04-04T12:11:36.785990Z] HeartRateValue: 67, SensorContactDetected: Some(true), count: 225
+[2026-04-04T12:11:38.646444Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 226
+[2026-04-04T12:11:40.747835Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 227
+[2026-04-04T12:11:42.665946Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 228
+[2026-04-04T12:11:44.645940Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 229
+[2026-04-04T12:11:46.625939Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 230
+[2026-04-04T12:11:47.465868Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 231
+[2026-04-04T12:11:48.725898Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 232
+[2026-04-04T12:11:50.645858Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 233
+[2026-04-04T12:11:52.625830Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 234
+[2026-04-04T12:11:54.605800Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 235
+[2026-04-04T12:11:56.585798Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 236
+[2026-04-04T12:11:57.425766Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 237
+[2026-04-04T12:11:58.625770Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 238
+[2026-04-04T12:12:00.605765Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 239
+[2026-04-04T12:12:01.385961Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 240
+[2026-04-04T12:12:02.585796Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 241
+[2026-04-04T12:12:04.565767Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 242
+[2026-04-04T12:12:06.666410Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 243
+[2026-04-04T12:12:08.585639Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 244
+[2026-04-04T12:12:10.565596Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 245
+[2026-04-04T12:12:12.545714Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 246
+[2026-04-04T12:12:14.647133Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 247
+[2026-04-04T12:12:16.565561Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 248
+[2026-04-04T12:12:17.345570Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 249
+[2026-04-04T12:12:18.545555Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 250
+[2026-04-04T12:12:20.525583Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 251
+[2026-04-04T12:12:22.505507Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 252
+[2026-04-04T12:12:24.485539Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 253
+[2026-04-04T12:12:26.587068Z] HeartRateValue: 68, SensorContactDetected: Some(true), count: 254
+[2026-04-04T12:12:27.305519Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 255
+[2026-04-04T12:12:28.505557Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 256
+[2026-04-04T12:12:30.485423Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 257
+[2026-04-04T12:12:32.465445Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 258
+[2026-04-04T12:12:34.567118Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 259
+[2026-04-04T12:12:36.545444Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 260
+[2026-04-04T12:12:38.465471Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 261
+[2026-04-04T12:12:39.245457Z] HeartRateValue: 69, SensorContactDetected: Some(true), count: 262
+[2026-04-04T12:12:40.445406Z] HeartRateValue: 70, SensorContactDetected: Some(true), count: 263
+[2026-04-04T12:12:41.285423Z] HeartRateValue: 71, SensorContactDetected: Some(true), count: 264
+[2026-04-04T12:12:42.425381Z] HeartRateValue: 72, SensorContactDetected: Some(true), count: 265
+[2026-04-04T12:12:43.445381Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 266
+[2026-04-04T12:12:44.465296Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 267
+[2026-04-04T12:12:46.445293Z] HeartRateValue: 74, SensorContactDetected: Some(true), count: 268
+[2026-04-04T12:12:48.425266Z] HeartRateValue: 74, SensorContactDetected: Some(true), count: 269
+[2026-04-04T12:12:50.405230Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 270
+[2026-04-04T12:12:52.506916Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 271
+[2026-04-04T12:12:54.425182Z] HeartRateValue: 73, SensorContactDetected: Some(true), count: 272
+[2026-04-04T12:12:55.205215Z] HeartRateValue: 74, SensorContactDetected: Some(true), count: 273
+[2026-04-04T12:12:56.405204Z] HeartRateValue: 74, SensorContactDetected: Some(true), count: 274
+[2026-04-04T12:12:57.245144Z] HeartRateValue: 75, SensorContactDetected: Some(true), count: 275
+[2026-04-04T12:12:58.385219Z] HeartRateValue: 75, SensorContactDetected: Some(true), count: 276
+[2026-04-04T12:13:00.547023Z] HeartRateValue: 75, SensorContactDetected: Some(true), count: 277
+[2026-04-04T12:13:02.405578Z] HeartRateValue: 76, SensorContactDetected: Some(true), count: 278
+[2026-04-04T12:13:04.385500Z] HeartRateValue: 76, SensorContactDetected: Some(true), count: 279
+[2026-04-04T12:13:05.225088Z] HeartRateValue: 78, SensorContactDetected: Some(true), count: 280
+[2026-04-04T12:13:06.605073Z] HeartRateValue: 77, SensorContactDetected: Some(true), count: 281
+[2026-04-04T12:13:07.265167Z] HeartRateValue: 78, SensorContactDetected: Some(true), count: 282
+[2026-04-04T12:13:37.279603Z] No notification for 30s, assuming device disconnected (total samples: 282)
+[2026-04-04T12:13:37.283067Z] Connection error: "No longer heart rate notify"
+[2026-04-04T12:13:37.306126Z] Found 0 already-connected devices
+[2026-04-04T12:13:37.306562Z] Starting scan
+[2026-04-04T12:13:37.317032Z] Scan started
+[2026-04-04T12:13:39.533690Z] Found Device: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc Ok("Xiaomi Smart Band 9 0623")
+[2026-04-04T12:13:39.534205Z] Connecting device: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc
+[2026-04-04T12:13:39.534840Z] Connect done: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc
+[2026-04-04T12:13:42.666996Z] Connection error: Error { kind: NotConnected, source: Some(CommunicationError(unreachable)), message: "discovering services" }
+[2026-04-04T12:13:42.673246Z] Found 0 already-connected devices
+[2026-04-04T12:13:42.673433Z] Starting scan
+[2026-04-04T12:13:42.679162Z] Scan started
+[2026-04-04T12:13:49.932467Z] Found Device: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc Ok("Xiaomi ����")
+[2026-04-04T12:13:49.932827Z] Connecting device: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc
+[2026-04-04T12:13:49.933470Z] Connect done: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc
+[2026-04-04T12:13:51.786898Z] Connection error: Error { kind: NotConnected, source: Some(CommunicationError(unreachable)), message: "discovering services" }
+[2026-04-04T12:13:51.792029Z] Found 0 already-connected devices
+[2026-04-04T12:13:51.793023Z] Starting scan
+[2026-04-04T12:13:51.798429Z] Scan started
+[2026-04-04T12:13:55.047081Z] Found Device: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc Ok("Xiaomi ����")
+[2026-04-04T12:13:55.047356Z] Device already connected: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc
+[2026-04-04T12:13:55.986845Z] Connection error: Error { kind: NotConnected, source: Some(CommunicationError(unreachable)), message: "discovering services" }
+[2026-04-04T12:13:55.991945Z] Found 0 already-connected devices
+[2026-04-04T12:13:55.992034Z] Starting scan
+[2026-04-04T12:13:55.997094Z] Scan started
+[2026-04-04T12:13:57.227962Z] Found Device: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc Ok("Xiaomi ����")
+[2026-04-04T12:13:57.228262Z] Device already connected: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc
+[2026-04-04T12:13:58.626964Z] Connection error: Error { kind: NotConnected, source: Some(CommunicationError(unreachable)), message: "discovering services" }
+[2026-04-04T12:13:58.632046Z] Found 0 already-connected devices
+[2026-04-04T12:13:58.632175Z] Starting scan
+[2026-04-04T12:13:58.637146Z] Scan started
+[2026-04-04T12:14:02.338955Z] Found Device: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc Ok("Xiaomi ����")
+[2026-04-04T12:14:02.339337Z] Device already connected: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc
+[2026-04-04T12:14:03.727044Z] Connection error: Error { kind: NotConnected, source: Some(CommunicationError(unreachable)), message: "discovering services" }
+[2026-04-04T12:14:03.732283Z] Found 0 already-connected devices
+[2026-04-04T12:14:03.732405Z] Starting scan
+[2026-04-04T12:14:03.737425Z] Scan started

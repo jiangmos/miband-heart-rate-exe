@@ -1,0 +1,49 @@
+=== miband-heart-rate started ===
+Initializing BLE adapter
+Start listening at http://127.0.0.1:3030
+BLE adapter ready
+[DIAG][scanner] Starting reconnection attempt
+[DIAG][scanner] Found 0 already-connected devices
+[DIAG][scanner] Starting scan
+[DIAG][scanner] Scan started
+[DIAG][scanner] Found Device: BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc Ok("Xiaomi Smart Band 9 0623")
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Connecting device
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Connect done
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Discovering services
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Found 1 heart rate services
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Discovering HRM characteristic
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Found 1 HRM characteristics
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Subscribing to HRM notifications
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Notification stream established
+[DIAG] Entering notification loop
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Waiting for next notification (count=0)
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Received notification, size=2 bytes
+HeartRateValue: 69, SensorContactDetected: Some(true), count: 1
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Waiting for next notification (count=1)
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Received notification, size=2 bytes
+HeartRateValue: 69, SensorContactDetected: Some(true), count: 2
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Waiting for next notification (count=2)
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Received notification, size=2 bytes
+HeartRateValue: 69, SensorContactDetected: Some(true), count: 3
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Waiting for next notification (count=3)
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Received notification, size=2 bytes
+HeartRateValue: 68, SensorContactDetected: Some(true), count: 4
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Waiting for next notification (count=4)
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Received notification, size=2 bytes
+HeartRateValue: 68, SensorContactDetected: Some(true), count: 5
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Waiting for next notification (count=5)
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Received notification, size=2 bytes
+HeartRateValue: 67, SensorContactDetected: Some(true), count: 6
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Waiting for next notification (count=6)
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Received notification, size=2 bytes
+HeartRateValue: 67, SensorContactDetected: Some(true), count: 7
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Waiting for next notification (count=7)
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Received notification, size=2 bytes
+HeartRateValue: 66, SensorContactDetected: Some(true), count: 8
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Waiting for next notification (count=8)
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Received notification, size=2 bytes
+HeartRateValue: 65, SensorContactDetected: Some(true), count: 9
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Waiting for next notification (count=9)
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Received notification, size=2 bytes
+HeartRateValue: 64, SensorContactDetected: Some(true), count: 10
+[DIAG][BluetoothLE#BluetoothLEbc:09:1b:ab:01:84-f1:cc:51:15:ef:bc] Waiting for next notification (count=10)
